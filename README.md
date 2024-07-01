@@ -47,12 +47,11 @@ This project leverages a variety of powerful libraries and tools to achieve its 
 Here are some example outputs to showcase what the converted PowerPoint slides look like:
 
 <div align="center">
-  <img src="images/example1.png" alt="Example 1" width="45%"/>
-  <img src="images/example2.png" alt="Example 2" width="45%"/>
+  <img src="[images/example1.png](https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count1.png)" alt="Example 1" width="45%"/>
+  <img src="[images/example2.png](https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count2.png)" alt="Example 2" width="45%"/>
 </div>
 <div align="center">
-  <img src="images/example3.png" alt="Example 3" width="45%"/>
-  <img src="images/example4.png" alt="Example 4" width="45%"/>
+  <img src="[images/example3.png](https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count3.png)" alt="Example 3" width="45%"/>
 </div>
 
 ## Future Plans
