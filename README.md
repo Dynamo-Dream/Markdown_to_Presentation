@@ -5,7 +5,17 @@ Welcome to the Markdown to PowerPoint Converter project! This tool is designed t
 ## Project Overview
 
 The Markdown to PowerPoint Converter is an innovative application that takes your Markdown-formatted notes and converts them into a visually appealing PowerPoint presentation. The tool is currently in the development stage, but it promises to simplify the process of creating presentations from textual notes.
+## Example Outputs
 
+Here are some example outputs to showcase what the converted PowerPoint slides look like:
+
+<div align="center">
+  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count1.png" alt="Example 1" width="45%"/>
+  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count2.png" alt="Example 2" width="45%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count3.png" alt="Example 3" width="45%"/>
+  </div>
 ### Key Features
 
 - **Automatic Title Conversion**: Converts H1 tags in Markdown to the main titles in PowerPoint slides.
@@ -42,17 +52,7 @@ This project leverages a variety of powerful libraries and tools to achieve its 
 4. **Image Processing**: OpenCV and Pillow are used to process images, ensuring they are properly formatted for PowerPoint.
 5. **Presentation Creation**: The processed content is assembled into a PowerPoint presentation using Python-pptx.
 
-## Example Outputs
 
-Here are some example outputs to showcase what the converted PowerPoint slides look like:
-
-<div align="center">
-  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count1.png" alt="Example 1" width="45%"/>
-  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count2.png" alt="Example 2" width="45%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count3.png" alt="Example 3" width="45%"/>
-  </div>
 
 ## Future Plans
 
