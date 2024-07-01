@@ -1,10 +1,10 @@
-# Test1
+# LATEX TO IMAGE
 
 CH
-#### Test 4
-- P1
-- P2
-- P3
+#### STEPS FOR CONVERSION
+- Use Matplotlib to get the image of the LAtex Equation
+- Save that in the PDF Form
+- Use Pdf2Image to open it.
 
 CH
 
