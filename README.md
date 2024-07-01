@@ -48,10 +48,10 @@ Here are some example outputs to showcase what the converted PowerPoint slides l
 
 <div align="center">
   <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count1.png" alt="Example 1" width="45%"/>
-  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count1.png" alt="Example 2" width="45%"/>
+  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count2.png" alt="Example 2" width="45%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count1.png" alt="Example 3" width="45%"/>
+  <img src="https://github.com/Dynamo-Dream/Markdown_to_Presentation/blob/master/final/count3.png" alt="Example 3" width="45%"/>
   </div>
 
 ## Future Plans
